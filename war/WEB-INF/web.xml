@@ -43,7 +43,7 @@ http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
 		</user-data-constraint>
 	</security-constraint>
 	
-		<!-- filters -->
+	<!-- filters -->
 	<filter>
 		<filter-name>authFilter</filter-name>
 		<filter-class>com.google.glassware.AuthFilter</filter-class>
